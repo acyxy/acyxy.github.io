@@ -6,8 +6,20 @@
     <atom:link href="https://acyxy.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <description>记录精彩的程序员人生</description>
     <generator>Solo, v4.4.0, https://b3log.org/solo</generator>
-    <lastBuildDate>Thu, 16 Feb 2023 11:51:39 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 16 Feb 2023 12:05:48 +0800</lastBuildDate>
     <language>zh-cn</language>
+    <item>
+      <title>技术萌新的第一篇文章</title>
+      <link>https://acyxy.github.io/articles/2023/02/15/1676455641311.html</link>
+      <description/>
+      <author>MonkeyAcy</author>
+      <guid>https://acyxy.github.io/articles/2023/02/15/1676455641311.html</guid>
+      <category>Solo</category>
+      <category>随感</category>
+      <category>program</category>
+      <category>work</category>
+      <pubDate>Thu, 16 Feb 2023 12:05:01 +0800</pubDate>
+    </item>
     <item>
       <title>2023年2月16日-团队报告</title>
       <link>https://acyxy.github.io/articles/2023/02/16/1676519449167.html</link>
@@ -62,30 +74,6 @@
       <guid>https://acyxy.github.io/articles/2023/02/16/1676517211038.html</guid>
       <category>work</category>
       <pubDate>Thu, 16 Feb 2023 11:26:12 +0800</pubDate>
-    </item>
-    <item>
-      <title>世界，你好！</title>
-      <link>https://acyxy.github.io/hello-solo</link>
-      <description>
-        <![CDATA[<p><img src="https://b3logfile.com/bing/20190512.jpg?imageView2/1/w/1280/h/720/interlace/1/q/100" alt=""></p>
-<p>博客系统已经初始化完毕，可在管理后台 - 工具 - 偏好设定中调整更多细节设置。</p>]]>
-      </description>
-      <author>MonkeyAcy</author>
-      <guid>https://acyxy.github.io/hello-solo</guid>
-      <category>Solo</category>
-      <pubDate>Thu, 16 Feb 2023 11:00:46 +0800</pubDate>
-    </item>
-    <item>
-      <title>技术萌新的第一篇文章</title>
-      <link>https://acyxy.github.io/articles/2023/02/15/1676455641311.html</link>
-      <description/>
-      <author>MonkeyAcy</author>
-      <guid>https://acyxy.github.io/articles/2023/02/15/1676455641311.html</guid>
-      <category>Solo</category>
-      <category>随感</category>
-      <category>work</category>
-      <category>program</category>
-      <pubDate>Thu, 16 Feb 2023 10:15:28 +0800</pubDate>
     </item>
   </channel>
 </rss>
