@@ -6,31 +6,8 @@
     <atom:link href="https://acyxy.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     <description>记录精彩的程序员人生</description>
     <generator>Solo, v4.4.0, https://b3log.org/solo</generator>
-    <lastBuildDate>Thu, 16 Feb 2023 12:05:48 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2023 12:31:18 +0800</lastBuildDate>
     <language>zh-cn</language>
-    <item>
-      <title>技术萌新的第一篇文章</title>
-      <link>https://acyxy.github.io/articles/2023/02/15/1676455641311.html</link>
-      <description/>
-      <author>MonkeyAcy</author>
-      <guid>https://acyxy.github.io/articles/2023/02/15/1676455641311.html</guid>
-      <category>Solo</category>
-      <category>随感</category>
-      <category>program</category>
-      <category>work</category>
-      <pubDate>Thu, 16 Feb 2023 12:05:01 +0800</pubDate>
-    </item>
-    <item>
-      <title>2023年2月16日-团队报告</title>
-      <link>https://acyxy.github.io/articles/2023/02/16/1676519449167.html</link>
-      <description>
-        <![CDATA[<p>这个周努力工作ing……]]>😄<![CDATA[ ]]>🙏<![CDATA[</p>]]>
-      </description>
-      <author>MonkeyAcy</author>
-      <guid>https://acyxy.github.io/articles/2023/02/16/1676519449167.html</guid>
-      <category>work</category>
-      <pubDate>Thu, 16 Feb 2023 11:50:49 +0800</pubDate>
-    </item>
     <item>
       <title>2023年2月16日-工作报告--樊凡</title>
       <link>https://acyxy.github.io/articles/2023/02/16/1676513993471.html</link>
@@ -40,18 +17,8 @@
       <author>MonkeyAcy</author>
       <guid>https://acyxy.github.io/articles/2023/02/16/1676513993471.html</guid>
       <category>work</category>
-      <pubDate>Thu, 16 Feb 2023 11:47:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>2023年2月16日-工作报告--王伟</title>
-      <link>https://acyxy.github.io/articles/2023/02/16/1676518069067.html</link>
-      <description>
-        <![CDATA[<p>今天要继续努力ya</p>]]>
-      </description>
-      <author>MonkeyAcy</author>
-      <guid>https://acyxy.github.io/articles/2023/02/16/1676518069067.html</guid>
-      <category>work</category>
-      <pubDate>Thu, 16 Feb 2023 11:27:49 +0800</pubDate>
+      <category>fanfan</category>
+      <pubDate>Tue, 07 Mar 2023 12:27:02 +0800</pubDate>
     </item>
     <item>
       <title>2023年2月11日-工作报告-徐莹</title>
@@ -62,7 +29,8 @@
       <author>MonkeyAcy</author>
       <guid>https://acyxy.github.io/articles/2023/02/16/1676516358669.html</guid>
       <category>work</category>
-      <pubDate>Thu, 16 Feb 2023 11:26:23 +0800</pubDate>
+      <category>xuying</category>
+      <pubDate>Tue, 07 Mar 2023 12:26:52 +0800</pubDate>
     </item>
     <item>
       <title>2023年2月16日-工作日志-刘海</title>
@@ -72,8 +40,95 @@
       </description>
       <author>liuhai1995</author>
       <guid>https://acyxy.github.io/articles/2023/02/16/1676517211038.html</guid>
+      <category>liuhai</category>
       <category>work</category>
-      <pubDate>Thu, 16 Feb 2023 11:26:12 +0800</pubDate>
+      <pubDate>Tue, 07 Mar 2023 12:26:44 +0800</pubDate>
+    </item>
+    <item>
+      <title>2023年2月16日-工作报告--王伟</title>
+      <link>https://acyxy.github.io/articles/2023/02/16/1676518069067.html</link>
+      <description>
+        <![CDATA[<p>今天要继续努力ya</p>]]>
+      </description>
+      <author>MonkeyAcy</author>
+      <guid>https://acyxy.github.io/articles/2023/02/16/1676518069067.html</guid>
+      <category>work</category>
+      <category>wangwei</category>
+      <pubDate>Tue, 07 Mar 2023 12:26:29 +0800</pubDate>
+    </item>
+    <item>
+      <title>一只鸟儿的孵化之路</title>
+      <link>https://acyxy.github.io/articles/2023/03/07/1678162703910.html</link>
+      <description>
+        <![CDATA[<p>养鸟儿的乐趣就在于，你能看到生命的伟大❤️️ ！--fanfan</p>]]>
+      </description>
+      <author>MonkeyAcy</author>
+      <guid>https://acyxy.github.io/articles/2023/03/07/1678162703910.html</guid>
+      <category>fanfan</category>
+      <category>随感</category>
+      <pubDate>Tue, 07 Mar 2023 12:21:49 +0800</pubDate>
+    </item>
+    <item>
+      <title>岁月静好，只因有喵</title>
+      <link>https://acyxy.github.io/articles/2023/03/07/1678161957856.html</link>
+      <description>
+        <![CDATA[<p>岁月静好，只因有喵</p>
+<p>]]>😳<![CDATA[ 谁家还没有一个可爱的小猫咪呢！！(￢︿̫̿￢☆)</p>]]>
+      </description>
+      <author>MonkeyAcy</author>
+      <guid>https://acyxy.github.io/articles/2023/03/07/1678161957856.html</guid>
+      <category>liuhai</category>
+      <category>随感</category>
+      <pubDate>Tue, 07 Mar 2023 12:19:57 +0800</pubDate>
+    </item>
+    <item>
+      <title>【团队报告】2023年2月27日-3月3日</title>
+      <link>https://acyxy.github.io/articles/2023/03/07/1678158464601.html</link>
+      <description>
+        <![CDATA[<p>2023年3月3日-更合规！更安全！</p>]]>
+      </description>
+      <author>MonkeyAcy</author>
+      <guid>https://acyxy.github.io/articles/2023/03/07/1678158464601.html</guid>
+      <category>安全建设</category>
+      <category>work</category>
+      <pubDate>Tue, 07 Mar 2023 12:19:41 +0800</pubDate>
+    </item>
+    <item>
+      <title>【团队工作】2023年0220-0224</title>
+      <link>https://acyxy.github.io/articles/2023/03/07/1678159496340.html</link>
+      <description>
+        <![CDATA[<p>2023年2月--又是合规满满的一周呢！！</p>]]>
+      </description>
+      <author>MonkeyAcy</author>
+      <guid>https://acyxy.github.io/articles/2023/03/07/1678159496340.html</guid>
+      <category>安全建设</category>
+      <category>work</category>
+      <pubDate>Tue, 07 Mar 2023 12:19:32 +0800</pubDate>
+    </item>
+    <item>
+      <title>【团队报告】2023年2月13日-17日</title>
+      <link>https://acyxy.github.io/articles/2023/02/16/1676519449167.html</link>
+      <description>
+        <![CDATA[<p>这个周努力工作ing……]]>😄<![CDATA[ ]]>🙏<![CDATA[</p>]]>
+      </description>
+      <author>MonkeyAcy</author>
+      <guid>https://acyxy.github.io/articles/2023/02/16/1676519449167.html</guid>
+      <category>安全建设</category>
+      <category>work</category>
+      <pubDate>Tue, 07 Mar 2023 12:19:18 +0800</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT为什么为Siri更智能？答案来了</title>
+      <link>https://acyxy.github.io/articles/2023/03/07/1678156450754.html</link>
+      <description>
+        <![CDATA[<p>输入几个简单的关键词]]>🎉<![CDATA[ ，AI能帮你生成一篇短篇小说甚至是专业论文。？？ChatGPT是啥？一文读懂</p>]]>
+      </description>
+      <author>MonkeyAcy</author>
+      <guid>https://acyxy.github.io/articles/2023/03/07/1678156450754.html</guid>
+      <category>科普</category>
+      <category>work</category>
+      <category>xuying</category>
+      <pubDate>Tue, 07 Mar 2023 12:18:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
