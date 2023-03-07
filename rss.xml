@@ -4,34 +4,87 @@
     <title>合规与风险管理</title>
     <link>https://acyxy.github.io</link>
     <atom:link href="https://acyxy.github.io/rss.xml" rel="self" type="application/rss+xml"/>
-    <description>记录精彩的程序员人生</description>
+    <description>【春日主题】在那山的那边，海的那边有一群小精灵~ 他们可爱又聪明，能干又美丽~</description>
     <generator>Solo, v4.4.0, https://b3log.org/solo</generator>
-    <lastBuildDate>Tue, 07 Mar 2023 12:43:05 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 07 Mar 2023 18:33:54 +0800</lastBuildDate>
     <language>zh-cn</language>
     <item>
-      <title>【团队工作】2023年0220-0224</title>
-      <link>https://acyxy.github.io/articles/2023/03/07/1678159496340.html</link>
+      <title>ChatGPT为什么为Siri更智能？答案来了</title>
+      <link>https://acyxy.github.io/articles/2023/03/07/1678156450754.html</link>
       <description>
-        <![CDATA[<p>2023年2月--又是合规满满的一周呢！！</p>]]>
+        <![CDATA[<p>输入几个简单的关键词]]>🎉<![CDATA[ ，AI能帮你生成一篇短篇小说甚至是专业论文。？？ChatGPT是啥？一文读懂</p>]]>
       </description>
       <author>MonkeyAcy</author>
-      <guid>https://acyxy.github.io/articles/2023/03/07/1678159496340.html</guid>
-      <category>安全建设</category>
+      <guid>https://acyxy.github.io/articles/2023/03/07/1678156450754.html</guid>
+      <category>科普</category>
+      <category>xuying</category>
       <category>work</category>
-      <pubDate>Tue, 07 Mar 2023 12:41:50 +0800</pubDate>
+      <pubDate>Tue, 07 Mar 2023 18:32:58 +0800</pubDate>
     </item>
     <item>
-      <title>岁月静好，只因有喵</title>
-      <link>https://acyxy.github.io/articles/2023/03/07/1678161957856.html</link>
+      <title>【风险管理】网络安全风险管理的五个实用技巧</title>
+      <link>https://acyxy.github.io/articles/2023/03/07/1678183993446.html</link>
       <description>
-        <![CDATA[<p>岁月静好，只因有喵</p>
-<p>]]>😳<![CDATA[ 谁家还没有一个可爱的小猫咪呢！！(￢︿̫̿￢☆)</p>]]>
+        <![CDATA[<p>快点收藏！！❤️️ 网络安全风险管理的五个实用技巧</p>]]>
       </description>
       <author>MonkeyAcy</author>
-      <guid>https://acyxy.github.io/articles/2023/03/07/1678161957856.html</guid>
-      <category>随感</category>
+      <guid>https://acyxy.github.io/articles/2023/03/07/1678183993446.html</guid>
       <category>liuhai</category>
-      <pubDate>Tue, 07 Mar 2023 12:41:45 +0800</pubDate>
+      <category>科普</category>
+      <category>随感</category>
+      <pubDate>Tue, 07 Mar 2023 18:32:15 +0800</pubDate>
+    </item>
+    <item>
+      <title>【工作模式讨论】计划性讨论-2023-2-25</title>
+      <link>https://acyxy.github.io/articles/2023/03/07/1678181180173.html</link>
+      <description>
+        <![CDATA[<p>新的尝试，新的开始</p>]]>
+      </description>
+      <author>MonkeyAcy</author>
+      <guid>https://acyxy.github.io/articles/2023/03/07/1678181180173.html</guid>
+      <category>work</category>
+      <category>工作模式分析</category>
+      <pubDate>Tue, 07 Mar 2023 18:31:58 +0800</pubDate>
+    </item>
+    <item>
+      <title>账号密码安全</title>
+      <link>https://acyxy.github.io/articles/2023/03/07/1678179833731.html</link>
+      <description>
+        <![CDATA[<p>保护]]>😄<![CDATA[ 好自己的账号口令安全，也很重要喔</p>]]>
+      </description>
+      <author>MonkeyAcy</author>
+      <guid>https://acyxy.github.io/articles/2023/03/07/1678179833731.html</guid>
+      <category>xuying</category>
+      <category>科普</category>
+      <category>wangwei</category>
+      <pubDate>Tue, 07 Mar 2023 18:26:33 +0800</pubDate>
+    </item>
+    <item>
+      <title>数据安全-数据分类分级（资产及安全等级篇）</title>
+      <link>https://acyxy.github.io/articles/2023/03/07/1678178987839.html</link>
+      <description>
+        <![CDATA[<p>《金融数据安全数据安全分级指南》解读❤️️ ，一起学习数据安全分级吧</p>]]>
+      </description>
+      <author>MonkeyAcy</author>
+      <guid>https://acyxy.github.io/articles/2023/03/07/1678178987839.html</guid>
+      <category>科普</category>
+      <category>安全建设</category>
+      <category>fanfan</category>
+      <pubDate>Tue, 07 Mar 2023 18:26:24 +0800</pubDate>
+    </item>
+    <item>
+      <title>数据安全-治理框架分享与学习</title>
+      <link>https://acyxy.github.io/articles/2023/03/07/1678177722894.html</link>
+      <description>
+        <![CDATA[<p>数据安全管理建设思路分享]]>🎉<![CDATA[</p>]]>
+      </description>
+      <author>MonkeyAcy</author>
+      <guid>https://acyxy.github.io/articles/2023/03/07/1678177722894.html</guid>
+      <category>liuhai</category>
+      <category>科普</category>
+      <category>fanfan</category>
+      <category>安全建设</category>
+      <pubDate>Tue, 07 Mar 2023 18:26:19 +0800</pubDate>
     </item>
     <item>
       <title>一只鸟儿的孵化之路</title>
@@ -43,67 +96,32 @@
       <guid>https://acyxy.github.io/articles/2023/03/07/1678162703910.html</guid>
       <category>随感</category>
       <category>fanfan</category>
-      <pubDate>Tue, 07 Mar 2023 12:41:39 +0800</pubDate>
+      <pubDate>Tue, 07 Mar 2023 18:26:09 +0800</pubDate>
     </item>
     <item>
-      <title>2023年2月16日-工作报告--樊凡</title>
-      <link>https://acyxy.github.io/articles/2023/02/16/1676513993471.html</link>
+      <title>岁月静好，只因有喵</title>
+      <link>https://acyxy.github.io/articles/2023/03/07/1678161957856.html</link>
       <description>
-        <![CDATA[<p>又是好好工作的一天呢</p>]]>
+        <![CDATA[<p>岁月静好，只因有喵</p>
+<p>]]>😳<![CDATA[ 谁家还没有一个可爱的小猫咪呢！！(￢︿̫̿￢☆)</p>]]>
       </description>
       <author>MonkeyAcy</author>
-      <guid>https://acyxy.github.io/articles/2023/02/16/1676513993471.html</guid>
-      <category>fanfan</category>
-      <category>work</category>
-      <pubDate>Tue, 07 Mar 2023 12:27:02 +0800</pubDate>
-    </item>
-    <item>
-      <title>2023年2月11日-工作报告-徐莹</title>
-      <link>https://acyxy.github.io/articles/2023/02/16/1676516358669.html</link>
-      <description>
-        <![CDATA[<p>今天的工作很注重要！要认真完成！</p>]]>
-      </description>
-      <author>MonkeyAcy</author>
-      <guid>https://acyxy.github.io/articles/2023/02/16/1676516358669.html</guid>
-      <category>xuying</category>
-      <category>work</category>
-      <pubDate>Tue, 07 Mar 2023 12:26:52 +0800</pubDate>
-    </item>
-    <item>
-      <title>2023年2月16日-工作日志-刘海</title>
-      <link>https://acyxy.github.io/articles/2023/02/16/1676517211038.html</link>
-      <description>
-        <![CDATA[<p>又是元气满满的一天呢</p>]]>
-      </description>
-      <author>liuhai1995</author>
-      <guid>https://acyxy.github.io/articles/2023/02/16/1676517211038.html</guid>
-      <category>work</category>
+      <guid>https://acyxy.github.io/articles/2023/03/07/1678161957856.html</guid>
       <category>liuhai</category>
-      <pubDate>Tue, 07 Mar 2023 12:26:44 +0800</pubDate>
+      <category>随感</category>
+      <pubDate>Tue, 07 Mar 2023 18:26:04 +0800</pubDate>
     </item>
     <item>
-      <title>2023年2月16日-工作报告--王伟</title>
-      <link>https://acyxy.github.io/articles/2023/02/16/1676518069067.html</link>
+      <title>【团队报告】2023年0220-0224</title>
+      <link>https://acyxy.github.io/articles/2023/03/07/1678159496340.html</link>
       <description>
-        <![CDATA[<p>今天要继续努力ya</p>]]>
+        <![CDATA[<p>2023年2月--又是合规满满的一周呢！！</p>]]>
       </description>
       <author>MonkeyAcy</author>
-      <guid>https://acyxy.github.io/articles/2023/02/16/1676518069067.html</guid>
-      <category>wangwei</category>
-      <category>work</category>
-      <pubDate>Tue, 07 Mar 2023 12:26:29 +0800</pubDate>
-    </item>
-    <item>
-      <title>【团队报告】2023年2月27日-3月3日</title>
-      <link>https://acyxy.github.io/articles/2023/03/07/1678158464601.html</link>
-      <description>
-        <![CDATA[<p>2023年3月3日-更合规！更安全！</p>]]>
-      </description>
-      <author>MonkeyAcy</author>
-      <guid>https://acyxy.github.io/articles/2023/03/07/1678158464601.html</guid>
+      <guid>https://acyxy.github.io/articles/2023/03/07/1678159496340.html</guid>
       <category>安全建设</category>
       <category>work</category>
-      <pubDate>Tue, 07 Mar 2023 12:19:41 +0800</pubDate>
+      <pubDate>Tue, 07 Mar 2023 18:25:54 +0800</pubDate>
     </item>
     <item>
       <title>【团队报告】2023年2月13日-17日</title>
@@ -113,22 +131,9 @@
       </description>
       <author>MonkeyAcy</author>
       <guid>https://acyxy.github.io/articles/2023/02/16/1676519449167.html</guid>
+      <category>work</category>
       <category>安全建设</category>
-      <category>work</category>
-      <pubDate>Tue, 07 Mar 2023 12:19:18 +0800</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT为什么为Siri更智能？答案来了</title>
-      <link>https://acyxy.github.io/articles/2023/03/07/1678156450754.html</link>
-      <description>
-        <![CDATA[<p>输入几个简单的关键词]]>🎉<![CDATA[ ，AI能帮你生成一篇短篇小说甚至是专业论文。？？ChatGPT是啥？一文读懂</p>]]>
-      </description>
-      <author>MonkeyAcy</author>
-      <guid>https://acyxy.github.io/articles/2023/03/07/1678156450754.html</guid>
-      <category>work</category>
-      <category>科普</category>
-      <category>xuying</category>
-      <pubDate>Tue, 07 Mar 2023 12:18:50 +0800</pubDate>
+      <pubDate>Tue, 07 Mar 2023 18:25:47 +0800</pubDate>
     </item>
   </channel>
 </rss>
